@@ -2,7 +2,7 @@
 title: Endyscord
 date: 2016-04-27 00:00:00 +/-TTTT
 categories: [Discord Bot, Backend, Frontend]
-technologies: [Node, Discord.JS, Budibase, Redit, Prisma]
+tags: [Node, Discord.JS, Budibase, Redit, Prisma]
 ---
 
 ![Alt text](/assets/img/posts/endyscord/logo.webp){: w="200" }
