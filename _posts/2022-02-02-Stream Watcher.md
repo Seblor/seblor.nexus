@@ -2,7 +2,7 @@
 title: Stream Watcher
 date: 2022-02-02 00:00:00 +/-TTTT
 categories: [Discord Bot, Backend, Frontend]
-tags: [Node, Discord.JS, VueJS]
+technologies: [Node, Discord.JS, VueJS]
 ---
 
 Stream Watcher is a Discord bot that creates a Discord event whenever a Twitch streamer goes live.
