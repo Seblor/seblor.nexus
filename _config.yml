@@ -189,7 +189,7 @@ jekyll-archives:
   enabled: [categories, tags]
   layouts:
     category: category
-    tag: tag
+    tag: technologies
   permalinks:
     tag: /technologies/:name/
     category: /categories/:name/
