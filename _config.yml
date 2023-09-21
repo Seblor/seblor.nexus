@@ -191,5 +191,5 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: /tags/:name/
+    tag: /technologies/:name/
     category: /categories/:name/
