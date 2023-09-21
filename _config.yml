@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Seblor's Nexus
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://seblor.github.io"
+url: "https://seblor.nexus"
 
 github:
   username: Seblor # change to your github username
@@ -142,7 +142,7 @@ defaults:
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
-      permalink: /:title/
+      permalink: /posts/:title/
   - scope:
       path: _drafts
     values:
