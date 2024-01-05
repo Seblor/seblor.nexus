@@ -188,8 +188,8 @@ exclude:
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
+    tag: tag
     category: category
-    tags: tags
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
