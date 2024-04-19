@@ -3,6 +3,7 @@ title: Soundpaddon
 date: 2024-04-20 00:00:00 +/-TTTT
 categories: [Frontend, Backend]
 tags: [Node, Svelte, SvelteKit, Electron]
+pin: true
 ---
 
 Soundpaddon is an application that adds a few features around Soundpad.
