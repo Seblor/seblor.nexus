@@ -1,6 +1,6 @@
 ---
 title: Soundpaddon
-date: 2024-04-20 00:00:00 +/-TTTT
+date: 2024-04-19 00:00:00 +/-TTTT
 categories: [Frontend, Backend]
 tags: [Node, Svelte, SvelteKit, Electron]
 pin: true
